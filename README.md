@@ -6,7 +6,7 @@
 ## ⚠️ AVISO IMPORTANTE: leia antes do restante
 
 ### 1. Os dois fazem mal
-
+### 2. A não regulamentação do vape faz ele poder ser adulterado
 | Produto | O que as fontes dizem |
 |---|---|
 | **Cigarro (combustível)** | A OMS estima que o tabaco mata **mais de 8 milhões de pessoas por ano** (mais de 7 milhões por uso direto e cerca de 1,3 milhão por fumo passivo) ([OMS, ficha técnica via Our World in Data](https://ourworldindata.org/smoking) · [HRB/OMS](https://www.drugsandalcohol.ie/36081)). No Brasil, o INCA estima **477 mortes por dia**, cerca de 174 mil por ano ([INCA](https://ninho.inca.gov.br/jspui/bitstream/123456789/15986/1/O%20tabagismo%20no%20Brasil%3a%20morte%2c%20doen%c3%a7a%20e%20pol%c3%adtica%20de%20pre%c3%a7os%20e%20impostos.pdf)). |
